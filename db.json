@@ -1,4 +1,5 @@
-[
+{
+  "users": [
     {
       "id": 1,
       "name": "hesham",
@@ -9,5 +10,17 @@
       "name": "ahmed",
       "role": "user"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "chipsy",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "name": "pepsi",
+      "price": 40
+    }
   ]
-
+}
